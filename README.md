@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/vtu25507bhanu/APS_25507/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/vtu25507bhanu/APS_25507/tree/master/0739-daily-temperatures) |
 | [0929-unique-email-addresses](https://github.com/vtu25507bhanu/APS_25507/tree/master/0929-unique-email-addresses) |
+| [0973-k-closest-points-to-origin](https://github.com/vtu25507bhanu/APS_25507/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/vtu25507bhanu/APS_25507/tree/master/0994-rotting-oranges) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu25507bhanu/APS_25507/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu25507bhanu/APS_25507/tree/master/1480-running-sum-of-1d-array) |
@@ -120,11 +121,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vtu25507bhanu/APS_25507/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/vtu25507bhanu/APS_25507/tree/master/0190-reverse-bits) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vtu25507bhanu/APS_25507/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0973-k-closest-points-to-origin](https://github.com/vtu25507bhanu/APS_25507/tree/master/0973-k-closest-points-to-origin) |
 | [1763-longest-nice-substring](https://github.com/vtu25507bhanu/APS_25507/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vtu25507bhanu/APS_25507/tree/master/0023-merge-k-sorted-lists) |
+| [0973-k-closest-points-to-origin](https://github.com/vtu25507bhanu/APS_25507/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -212,10 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vtu25507bhanu/APS_25507/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/vtu25507bhanu/APS_25507/tree/master/0169-majority-element) |
 | [0721-accounts-merge](https://github.com/vtu25507bhanu/APS_25507/tree/master/0721-accounts-merge) |
+| [0973-k-closest-points-to-origin](https://github.com/vtu25507bhanu/APS_25507/tree/master/0973-k-closest-points-to-origin) |
 ## Math
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/vtu25507bhanu/APS_25507/tree/master/0202-happy-number) |
+| [0973-k-closest-points-to-origin](https://github.com/vtu25507bhanu/APS_25507/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -233,4 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vtu25507bhanu/APS_25507/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/vtu25507bhanu/APS_25507/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/vtu25507bhanu/APS_25507/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
