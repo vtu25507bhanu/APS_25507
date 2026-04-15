@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vtu25507bhanu/APS_25507/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vtu25507bhanu/APS_25507/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/vtu25507bhanu/APS_25507/tree/master/0322-coin-change) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vtu25507bhanu/APS_25507/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/vtu25507bhanu/APS_25507/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/vtu25507bhanu/APS_25507/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/vtu25507bhanu/APS_25507/tree/master/0542-01-matrix) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu25507bhanu/APS_25507/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/vtu25507bhanu/APS_25507/tree/master/0169-majority-element) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vtu25507bhanu/APS_25507/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0721-accounts-merge](https://github.com/vtu25507bhanu/APS_25507/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/vtu25507bhanu/APS_25507/tree/master/0973-k-closest-points-to-origin) |
 ## Math
@@ -268,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vtu25507bhanu/APS_25507/tree/master/0062-unique-paths) |
+## Greedy
+|  |
+| ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vtu25507bhanu/APS_25507/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 <!---LeetCode Topics End-->
