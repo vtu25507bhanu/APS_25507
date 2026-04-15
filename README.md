@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/vtu25507bhanu/APS_25507/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/vtu25507bhanu/APS_25507/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/vtu25507bhanu/APS_25507/tree/master/0739-daily-temperatures) |
+| [0929-unique-email-addresses](https://github.com/vtu25507bhanu/APS_25507/tree/master/0929-unique-email-addresses) |
 | [0994-rotting-oranges](https://github.com/vtu25507bhanu/APS_25507/tree/master/0994-rotting-oranges) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu25507bhanu/APS_25507/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu25507bhanu/APS_25507/tree/master/1480-running-sum-of-1d-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vtu25507bhanu/APS_25507/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vtu25507bhanu/APS_25507/tree/master/0496-next-greater-element-i) |
 | [0721-accounts-merge](https://github.com/vtu25507bhanu/APS_25507/tree/master/0721-accounts-merge) |
+| [0929-unique-email-addresses](https://github.com/vtu25507bhanu/APS_25507/tree/master/0929-unique-email-addresses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vtu25507bhanu/APS_25507/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu25507bhanu/APS_25507/tree/master/0387-first-unique-character-in-a-string) |
 | [0721-accounts-merge](https://github.com/vtu25507bhanu/APS_25507/tree/master/0721-accounts-merge) |
+| [0929-unique-email-addresses](https://github.com/vtu25507bhanu/APS_25507/tree/master/0929-unique-email-addresses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu25507bhanu/APS_25507/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Queue
 |  |
