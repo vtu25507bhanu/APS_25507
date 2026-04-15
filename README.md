@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/vtu25507bhanu/APS_25507/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/vtu25507bhanu/APS_25507/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/vtu25507bhanu/APS_25507/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/vtu25507bhanu/APS_25507/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vtu25507bhanu/APS_25507/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vtu25507bhanu/APS_25507/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/vtu25507bhanu/APS_25507/tree/master/0322-coin-change) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vtu25507bhanu/APS_25507/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/vtu25507bhanu/APS_25507/tree/master/0239-sliding-window-maximum) |
 | [1763-longest-nice-substring](https://github.com/vtu25507bhanu/APS_25507/tree/master/1763-longest-nice-substring) |
 ## Prefix Sum
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/vtu25507bhanu/APS_25507/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/vtu25507bhanu/APS_25507/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu25507bhanu/APS_25507/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vtu25507bhanu/APS_25507/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/vtu25507bhanu/APS_25507/tree/master/0239-sliding-window-maximum) |
 | [0973-k-closest-points-to-origin](https://github.com/vtu25507bhanu/APS_25507/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
@@ -295,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/vtu25507bhanu/APS_25507/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/vtu25507bhanu/APS_25507/tree/master/0946-validate-stack-sequences) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vtu25507bhanu/APS_25507/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
