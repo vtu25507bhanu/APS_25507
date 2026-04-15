@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/vtu25507bhanu/APS_25507/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/vtu25507bhanu/APS_25507/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/vtu25507bhanu/APS_25507/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/vtu25507bhanu/APS_25507/tree/master/0746-min-cost-climbing-stairs) |
 | [0929-unique-email-addresses](https://github.com/vtu25507bhanu/APS_25507/tree/master/0929-unique-email-addresses) |
 | [0973-k-closest-points-to-origin](https://github.com/vtu25507bhanu/APS_25507/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/vtu25507bhanu/APS_25507/tree/master/0994-rotting-oranges) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu25507bhanu/APS_25507/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/vtu25507bhanu/APS_25507/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/vtu25507bhanu/APS_25507/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/vtu25507bhanu/APS_25507/tree/master/0746-min-cost-climbing-stairs) |
 ## String
 |  |
 | ------- |
