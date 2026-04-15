@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu25507bhanu/APS_25507/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/vtu25507bhanu/APS_25507/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu25507bhanu/APS_25507/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/vtu25507bhanu/APS_25507/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/vtu25507bhanu/APS_25507/tree/master/0198-house-robber) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vtu25507bhanu/APS_25507/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/vtu25507bhanu/APS_25507/tree/master/0190-reverse-bits) |
 | [1763-longest-nice-substring](https://github.com/vtu25507bhanu/APS_25507/tree/master/1763-longest-nice-substring) |
 ## Binary Indexed Tree
@@ -274,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vtu25507bhanu/APS_25507/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vtu25507bhanu/APS_25507/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
