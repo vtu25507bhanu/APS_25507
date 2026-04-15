@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vtu25507bhanu/APS_25507/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vtu25507bhanu/APS_25507/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/vtu25507bhanu/APS_25507/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/vtu25507bhanu/APS_25507/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vtu25507bhanu/APS_25507/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/vtu25507bhanu/APS_25507/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/vtu25507bhanu/APS_25507/tree/master/0496-next-greater-element-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vtu25507bhanu/APS_25507/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/vtu25507bhanu/APS_25507/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/vtu25507bhanu/APS_25507/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/vtu25507bhanu/APS_25507/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu25507bhanu/APS_25507/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vtu25507bhanu/APS_25507/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/vtu25507bhanu/APS_25507/tree/master/0621-task-scheduler) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vtu25507bhanu/APS_25507/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/vtu25507bhanu/APS_25507/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu25507bhanu/APS_25507/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/vtu25507bhanu/APS_25507/tree/master/0621-task-scheduler) |
 ## Two Pointers
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/vtu25507bhanu/APS_25507/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu25507bhanu/APS_25507/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vtu25507bhanu/APS_25507/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0347-top-k-frequent-elements](https://github.com/vtu25507bhanu/APS_25507/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/vtu25507bhanu/APS_25507/tree/master/0973-k-closest-points-to-origin) |
 | [1763-longest-nice-substring](https://github.com/vtu25507bhanu/APS_25507/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/vtu25507bhanu/APS_25507/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu25507bhanu/APS_25507/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/vtu25507bhanu/APS_25507/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/vtu25507bhanu/APS_25507/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vtu25507bhanu/APS_25507/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/vtu25507bhanu/APS_25507/tree/master/0973-k-closest-points-to-origin) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu25507bhanu/APS_25507/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -284,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vtu25507bhanu/APS_25507/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/vtu25507bhanu/APS_25507/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu25507bhanu/APS_25507/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vtu25507bhanu/APS_25507/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vtu25507bhanu/APS_25507/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/vtu25507bhanu/APS_25507/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/vtu25507bhanu/APS_25507/tree/master/0721-accounts-merge) |
@@ -323,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu25507bhanu/APS_25507/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vtu25507bhanu/APS_25507/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/vtu25507bhanu/APS_25507/tree/master/0973-k-closest-points-to-origin) |
 ## Memoization
 |  |
@@ -389,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vtu25507bhanu/APS_25507/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vtu25507bhanu/APS_25507/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
