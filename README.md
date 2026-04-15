@@ -34,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vtu25507bhanu/APS_25507/tree/master/0496-next-greater-element-i) |
 | [0721-accounts-merge](https://github.com/vtu25507bhanu/APS_25507/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/vtu25507bhanu/APS_25507/tree/master/0929-unique-email-addresses) |
+| [1763-longest-nice-substring](https://github.com/vtu25507bhanu/APS_25507/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vtu25507bhanu/APS_25507/tree/master/0219-contains-duplicate-ii) |
+| [1763-longest-nice-substring](https://github.com/vtu25507bhanu/APS_25507/tree/master/1763-longest-nice-substring) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/vtu25507bhanu/APS_25507/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/vtu25507bhanu/APS_25507/tree/master/0929-unique-email-addresses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu25507bhanu/APS_25507/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1763-longest-nice-substring](https://github.com/vtu25507bhanu/APS_25507/tree/master/1763-longest-nice-substring) |
 ## Queue
 |  |
 | ------- |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/vtu25507bhanu/APS_25507/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/vtu25507bhanu/APS_25507/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/vtu25507bhanu/APS_25507/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/vtu25507bhanu/APS_25507/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -212,4 +216,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/vtu25507bhanu/APS_25507/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/vtu25507bhanu/APS_25507/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
