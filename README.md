@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/vtu25507bhanu/APS_25507/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/vtu25507bhanu/APS_25507/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/vtu25507bhanu/APS_25507/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/vtu25507bhanu/APS_25507/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu25507bhanu/APS_25507/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/vtu25507bhanu/APS_25507/tree/master/0746-min-cost-climbing-stairs) |
 | [0929-unique-email-addresses](https://github.com/vtu25507bhanu/APS_25507/tree/master/0929-unique-email-addresses) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vtu25507bhanu/APS_25507/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/vtu25507bhanu/APS_25507/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/vtu25507bhanu/APS_25507/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/vtu25507bhanu/APS_25507/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu25507bhanu/APS_25507/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vtu25507bhanu/APS_25507/tree/master/0901-online-stock-span) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu25507bhanu/APS_25507/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -283,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/vtu25507bhanu/APS_25507/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/vtu25507bhanu/APS_25507/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/vtu25507bhanu/APS_25507/tree/master/0078-subsets) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/vtu25507bhanu/APS_25507/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
