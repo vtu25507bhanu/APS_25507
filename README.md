@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vtu25507bhanu/APS_25507/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/vtu25507bhanu/APS_25507/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/vtu25507bhanu/APS_25507/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/vtu25507bhanu/APS_25507/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vtu25507bhanu/APS_25507/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/vtu25507bhanu/APS_25507/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/vtu25507bhanu/APS_25507/tree/master/0496-next-greater-element-i) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu25507bhanu/APS_25507/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/vtu25507bhanu/APS_25507/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/vtu25507bhanu/APS_25507/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/vtu25507bhanu/APS_25507/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/vtu25507bhanu/APS_25507/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/vtu25507bhanu/APS_25507/tree/master/0973-k-closest-points-to-origin) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu25507bhanu/APS_25507/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
