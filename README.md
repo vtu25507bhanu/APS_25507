@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vtu25507bhanu/APS_25507/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu25507bhanu/APS_25507/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/vtu25507bhanu/APS_25507/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/vtu25507bhanu/APS_25507/tree/master/0207-course-schedule) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vtu25507bhanu/APS_25507/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vtu25507bhanu/APS_25507/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu25507bhanu/APS_25507/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/vtu25507bhanu/APS_25507/tree/master/0200-number-of-islands) |
@@ -332,11 +334,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vtu25507bhanu/APS_25507/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vtu25507bhanu/APS_25507/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu25507bhanu/APS_25507/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vtu25507bhanu/APS_25507/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vtu25507bhanu/APS_25507/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu25507bhanu/APS_25507/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
