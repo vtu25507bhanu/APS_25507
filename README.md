@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/vtu25507bhanu/APS_25507/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/vtu25507bhanu/APS_25507/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/vtu25507bhanu/APS_25507/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/vtu25507bhanu/APS_25507/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/vtu25507bhanu/APS_25507/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/vtu25507bhanu/APS_25507/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/vtu25507bhanu/APS_25507/tree/master/0994-rotting-oranges) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vtu25507bhanu/APS_25507/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu25507bhanu/APS_25507/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vtu25507bhanu/APS_25507/tree/master/0496-next-greater-element-i) |
+| [0721-accounts-merge](https://github.com/vtu25507bhanu/APS_25507/tree/master/0721-accounts-merge) |
 ## Sliding Window
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vtu25507bhanu/APS_25507/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/vtu25507bhanu/APS_25507/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu25507bhanu/APS_25507/tree/master/0387-first-unique-character-in-a-string) |
+| [0721-accounts-merge](https://github.com/vtu25507bhanu/APS_25507/tree/master/0721-accounts-merge) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu25507bhanu/APS_25507/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Queue
 |  |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/vtu25507bhanu/APS_25507/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/vtu25507bhanu/APS_25507/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/vtu25507bhanu/APS_25507/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/vtu25507bhanu/APS_25507/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/vtu25507bhanu/APS_25507/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/vtu25507bhanu/APS_25507/tree/master/0841-keys-and-rooms) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/vtu25507bhanu/APS_25507/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/vtu25507bhanu/APS_25507/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/vtu25507bhanu/APS_25507/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/vtu25507bhanu/APS_25507/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/vtu25507bhanu/APS_25507/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/vtu25507bhanu/APS_25507/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/vtu25507bhanu/APS_25507/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/vtu25507bhanu/APS_25507/tree/master/0994-rotting-oranges) |
@@ -154,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/vtu25507bhanu/APS_25507/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vtu25507bhanu/APS_25507/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/vtu25507bhanu/APS_25507/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/vtu25507bhanu/APS_25507/tree/master/0721-accounts-merge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu25507bhanu/APS_25507/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -179,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/vtu25507bhanu/APS_25507/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vtu25507bhanu/APS_25507/tree/master/0210-course-schedule-ii) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/vtu25507bhanu/APS_25507/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+## Sorting
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/vtu25507bhanu/APS_25507/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
